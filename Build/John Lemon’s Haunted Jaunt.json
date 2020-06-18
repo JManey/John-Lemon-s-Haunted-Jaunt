@@ -1,0 +1,16 @@
+{
+"companyName": " Justin M",
+"productName": "John Lemon’s Haunted Jaunt",
+"productVersion": "1.0",
+"dataUrl": "John Lemon’s Haunted Jaunt.data.unityweb",
+"wasmCodeUrl": "John Lemon’s Haunted Jaunt.wasm.code.unityweb",
+"wasmFrameworkUrl": "John Lemon’s Haunted Jaunt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
